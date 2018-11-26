@@ -15,14 +15,14 @@ namespace DeploymentSaurabh.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page - ZIP Deployment.";
+            ViewBag.Message = "Your application description page - Github Deployment.";
 
             return View();
         }
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page - ZIP Deployment.";
+            ViewBag.Message = "Your contact page - Github Deployment.";
 
             return View();
         }
